@@ -1,5 +1,5 @@
 ## Concept Map
-![Artwork](Artwork.pdf)
+* [Artwork](Artwork.pdf)
 
 
 ## Career Buddy
