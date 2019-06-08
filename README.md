@@ -1,6 +1,6 @@
 ## Links
 
-* [LinkedIn](www.linkedin.com/in/amberg96)
+* [LinkedIn](https://www.linkedin.com/in/amberg96/)
 
 
 ## Concept Map
