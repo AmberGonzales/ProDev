@@ -1,2 +1,2 @@
 ## Concept Map
-![Artwork](Artowork.pdf)
+![Artwork](Artwork.pdf)
