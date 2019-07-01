@@ -14,9 +14,3 @@ Selena M Trujillo
 ## Career Path
 Employee  
 
-## Passion Project
-
-
-
-## Golden Circle 
-* []()
